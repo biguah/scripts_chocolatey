@@ -15,6 +15,9 @@ choco install -y telegram
 choco install -y discord
 choco install -y wireguard
 choco install -y ublockorigin-chrome
+choco install -y anki --params "/CreateDesktopIcon"
+# choco install -y notion
+# choco install -y obsidian
 
 Choco install -y git
 choco install -y python
@@ -35,7 +38,7 @@ choco install -y gcloudsdk --ignore-checksums
 Choco install -y openjdk
 Choco install -y zap
 choco install -y wireshark
-choco install -y nessus-agent
+# choco install -y nessus-agent
 choco install -y anaconda3
 choco install -y datadog-agent
 choco install -y grafana
