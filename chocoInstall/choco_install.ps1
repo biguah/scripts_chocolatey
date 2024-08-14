@@ -35,6 +35,7 @@ choco install -y docker-compose
 Choco install -y awscli
 Choco install -y azure-cli
 choco install -y gcloudsdk --ignore-checksums
+choco install -y openssl
 Choco install -y openjdk
 Choco install -y zap
 choco install -y wireshark
