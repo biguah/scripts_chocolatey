@@ -10,6 +10,7 @@ Choco install -y vscode
 choco install -y vlc
 choco install -y chocolateygui
 Choco install -y chocolatey-core.extension
+choco install -y choco-upgrade-all-at-startup
 choco install -y notepadplusplus
 choco install -y telegram
 choco install -y discord
