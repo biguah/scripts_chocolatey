@@ -29,6 +29,7 @@ Choco install -y opentofu
 Choco install -y kubernetes-cli
 choco install -y k9s
 Choco install -y kubernetes-helm
+choco install -y kubernetes-kompose
 choco install -y minikube
 choco install -y docker-cli
 choco install -y docker-desktop
