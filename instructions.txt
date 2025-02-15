@@ -4,7 +4,7 @@ Install Instructions
 2. Right click on the trigger.bat file in the folder, and click on "Run as Admin"
 3. Exercise patience and let the installs finish; this may take 30-45 minutes, and upwards of 30 GB of disk space. Zoom and other programs WILL RESTART during the install, so if on a Zoom call, do not panic, just rejoin once Zoom is listed as finished in the install window.
 4. Anaconda (far down on the list) will take at minimum 20 minutes to install based on connection speed. 
-5. Refer back to the Class 6 install document (https://docs.google.com/document/d/1ERPPJxKwzxhQ0RXWoZDj1-1FylsTvPjPqae6UTqDhZI/edit?usp=sharing) when the installs are finished (aka when the PowerShell or Command Prompt window disappears).
+5. Refer back to the Class 6.5 install document (https://docs.google.com/document/d/1NigriGLA6Es6dsI6TtJAhkvHOeLkUponNqm2YaaiaHw/edit?usp=sharing) when the installs are finished (aka when the PowerShell or Command Prompt window disappears).
 
 
 Troubleshooting
