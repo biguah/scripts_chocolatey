@@ -2,10 +2,14 @@ New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoW
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Notes
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Homework
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Classes
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Books
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Files
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Terraform
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Notes
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Homework
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Classes
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Books
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Files
 
 Start-Transcript -Path "C:\users\$env:username\Documents\TheoWAF\Logs\chocoUpgrade$(Get-Date -UFormat "%Y-%m-%d@%Hh-%Mm-%Ss").log" 
 Start-Transcript -Path "Logs\chocoUpgrade$(Get-Date -UFormat "%Y-%m-%d@%Hh-%Mm-%Ss").log" 
